@@ -1,12 +1,12 @@
 # Site
 title:              Capsicum Cyber
 bio:                'Capsicum Cyber Ltd'
-description:        "Capsicum Cyber Ltd is a cybersecurity company, founded in the London, United Kingdom"
+description:        "Capsicum Cyber is a UK-based cybersecurity company"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         ''
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false
 locale:             en_US
 url:                https://capsicumcyber.co.uk
 
