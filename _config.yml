@@ -1,0 +1,57 @@
+# Site
+title:              Capsicum Cyber
+bio:                'Capsicum Cyber Ltd'
+description:        "24 Holborn Viaduct, International House, EC1A 2BN, London, United Kingdom"
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/logo.png'
+background:         ''
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+url:                https://capsicumcyber.co.uk
+
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+#disqus_shortname:   capsicumcyber
+
+# Social
+#google:
+  #plus:            #capsicumcyber
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+email:  info @ capsicumcyber.co.uk
+twitter:            capsicumcyber
+github-url:         capsicumcyber
+linkedin:          capsicumcyber
+
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+    #  - jekyll-redirect-from
+
+jekyll-mentions:
+    base_url: https://capsicumcyber.co.uk
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
