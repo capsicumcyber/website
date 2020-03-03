@@ -6,7 +6,7 @@ date: 2020-01-02
 comments: false
 ---
 
-<center>Founded in 2019,<a href="https://capsicumcyber.co.uk"><b>Capsicum Cyber Ltd</b></a> is a UK-based cybersecurity company, that bolsters your cybersecurity posture. Our company has expertise in many areas of cybersecurity, including:</center>
+<center>Founded in 2019, <a href="https://capsicumcyber.co.uk"><b>Capsicum Cyber Ltd</b></a> is a UK-based cybersecurity company, that bolsters your cybersecurity posture. Our company has expertise in many areas of cybersecurity, including:</center>
 
 * Adversary Simulation
 * Red Team Operations
